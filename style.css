@@ -14,13 +14,14 @@ body {
     margin: 0;
     padding: 0;
     background-color: white;
-    background-image: linear-gradient(white, #cccccc);
+    background-image: linear-gradient( #cccccc, white);
 }
 
 footer {
   font-size: 75%;
   text-align: center;
   line-height: normal;
+  background-color: #cccccc;
 }
 
 h1,
@@ -84,6 +85,5 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: white;
 }
 
