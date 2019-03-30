@@ -46,6 +46,7 @@ h2 {
   }
 
 header {
+    overflow: hidden;
     line-height: 2.3;
     width: 95%;
 }
