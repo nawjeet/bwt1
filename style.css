@@ -42,11 +42,16 @@ h2 {
     margin-top: 1em;
     padding-top: 1em;
     margin: 0 auto;
-    max-width: 36em;
+    width: 70%;
   }
 
 header {
     line-height: 2.3;
+    width: 95%;
+}
+
+#introduction {
+    width: 90%;
 }
 
 li {
@@ -65,19 +70,26 @@ li a:hover {
     color: rgb(107, 107, 107);
 }
 
-#sectionl {
-    text-align: left;
-}
-
-#sectionr {
-    text-align: right;
+.nawjeet {
+    float: left;
+    width: 35%;
 }
 
 p {
     margin-top: 1em;
     padding-top: 1em;
     margin: 0 auto;
-    max-width: 54em;
+    width: 70%;
+}
+
+#sectionl {
+    text-align: left;
+    width: 90%;
+}
+
+#sectionr {
+    text-align: right;
+    width: 100%;
 }
 
 ul {
