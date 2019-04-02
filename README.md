@@ -41,8 +41,8 @@ Nawjeet Sing Kanhye
 
 ## Acknowledgment
 
-'''
+```
 Responsive Nav bar from W3schools.com
 Font Family: Rubik (from Google API)
 Inspiration
-'''
+```
