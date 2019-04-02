@@ -13,7 +13,7 @@ Msn
 Yahoo
 ```
 
-### 
+### Content
 
 ### Built With
 
@@ -31,14 +31,18 @@ Javascript
 
 
 
-## Hosting on
+### Hosting on
 
 [GitHub](https://github.com)
 
 ## Authors
 
-
+Nawjeet Sing Kanhye
 
 ## Acknowledgment
 
-
+'''
+Responsive Nav bar from W3schools.com
+Font Family: Rubik (from Google API)
+Inspiration
+'''
