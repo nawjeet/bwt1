@@ -226,6 +226,19 @@ ul {
   margin-right: auto;
 }
 
+#techs {
+  width: 13%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#wt {
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 #yahooLogo {
   width: 18%;
 }
