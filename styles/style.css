@@ -112,11 +112,40 @@ ul {
   font-size: 13px;
 }
 
+.h {
+  background-color: #333;
+  border-radius: 30px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .imgBody {
   width: 75%;
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.imgIndex {
+  width: 12%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pI {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 300px;
+}
+
+.pIr {
+  text-align: right;
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: 300px;
 }
 
 .imgNav {
