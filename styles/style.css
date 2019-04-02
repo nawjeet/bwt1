@@ -227,14 +227,20 @@ ul {
 }
 
 #techs {
-  width: 25%;
-  display: block;
+  width: 13%;
   margin-left: auto;
   margin-right: auto;
 }
 
 #wt {
   width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#wty {
+  width: 25%;
   display: block;
   margin-left: auto;
   margin-right: auto;
