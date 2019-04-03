@@ -83,10 +83,12 @@ This website is hosted on [GitHub](https://github.com) and its source can be fou
 
 ```
 Nawjeet Sing Kanhye
+19360010
+n.kanhye@student.curtin.edu.au
 ```
 ## Acknowledgment
 
-* Responsive Nav bar from [W3schools.com](https://www.w3schools.com/html/html_responsive.asp)
+* Responsive Navigation bar from [W3schools.com](https://www.w3schools.com/html/html_responsive.asp)
 * Font Family: [Rubik](https://google-webfonts-helper.herokuapp.com/fonts/rubik?subsets=latin) (from Google API)
 * GitHub
 * Inspiration
