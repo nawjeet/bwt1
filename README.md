@@ -17,7 +17,7 @@ The website's starting page includes a brief introduction on websites in general
 
 ### Content
 
-The content includes critiques made on the **Content**, **Navigation**, **Layout**, **Web Technologies Used**, **Overall Functionality** and **User Experience** of each website stated above. This website contains 6 html pages, 1 css file and 1 JavaScript file. The files namely, `index.html`, `apple.html`, `samsung.html`, `msn.html`, `yahoo.html`, `references.html`, `style.css` and `script.js` can be found on my GitHub repository [here](https://github.com/nawjeet/bwt1).
+The content includes critiques made on the **Content**, **Navigation**, **Layout**, **Web Technologies Used**, **Overall Functionality** and **User Experience** of each website stated above. This website contains 6 html pages, 1 css file and 1 JavaScript file. The files namely, `index.html`, `apple.html`, `samsung.html`, `msn.html`, `yahoo.html`, `references.html`, `style.css` and `script.js`, can be found on my GitHub repository [here](https://github.com/nawjeet/bwt1).
 
 The first website is **Apple** which has been selected as _liked_ and has been evaluated thoroughly and displayed on the web page `apple.html`. The web page has small descriptions and pictures of the main website displayed. Below are the main points that has been described in each web page. Apple is a leader in the technology world where its creations are signs of simplicity and uniqueness. The company adhers to create innovative ideas and ensure that customers' satisfaction are put ahead of their work. They believe in simple things which can make a big impact on the way people see things. Apple aims at creating visually appealing animations and fonts.
 
