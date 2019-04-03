@@ -13,7 +13,7 @@ Msn
 Yahoo
 ```
 
-The website starting page includes a brief introduction on websites in general where it is stated that anyone around the world can publish their websites using free hosting services, such as [GitHub](https://github.com), [Netlify]() and [000WebHost](https://www.000webhost.com) service providers, or using paid providers with security and peace of mind, such as [GoDaddy](https://au.godaddy.com), [IcyEvolution](https://www.icyevolution.com), [BlueHost](https://www.bluehost.com) and many more. To ensure that a website meets minimum standard requirements, it is required to perform evaluation on the websites' overall performance criteria. The website should be responsive, contain accurate information and developed using lightweight codes. The first page includes the logo of each website and a small bullet points that will be further elaborated in the web pages created for each website.
+The website starting page includes a brief introduction on websites in general where it is stated that anyone around the world can publish their websites using free hosting services, such as [GitHub](https://github.com), [Netlify](https://www.netlify.com) and [000WebHost](https://www.000webhost.com) service providers, or using paid providers with security and peace of mind, such as [GoDaddy](https://au.godaddy.com), [IcyEvolution](https://www.icyevolution.com), [BlueHost](https://www.bluehost.com) and many more. To ensure that a website meets minimum standard requirements, it is required to perform evaluation on the websites' overall performance criteria. The website should be responsive, contain accurate information and developed using lightweight codes. The first page includes the logo of each website and a small bullet points that will be further elaborated in the web pages created for each website.
 
 ### Content
 
@@ -22,6 +22,7 @@ The content includes critiques made on the **Content**, **Navigation**, **Layout
 The first website is Apple which  it has been evaluated thoroughly and displayed on the web page `apple.html`. The web page has small descriptions and pictures of the main website displayed. Below are the bullet points 
 
 > Innovative ideas and design
+
 > Responsive and smooth website
 > Appealing visual literacy
 
@@ -43,7 +44,7 @@ The first website is Apple which  it has been evaluated thoroughly and displayed
 ```
 HTML5
 CSS
-Javascript
+JavaScript
 ```
 
 ### Conclusion
