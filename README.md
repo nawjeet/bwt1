@@ -19,25 +19,37 @@ The website starting page includes a brief introduction on websites in general w
 
 The content includes critiques made on the **Content**, **Navigation**, **Layout**, **Web Technologies Used**, **Overall Functionality** and **User Experience** of each website stated above. This website contains 6 html pages, 1 css file and 1 JavaScript file. The files namely, `index.html`, `apple.html`, `samsung.html`, `msn.html`, `yahoo.html`, `references.html`, `style.css` and `script.js` can be found on my GitHub repository [here](https://github.com/nawjeet/bwt1).
 
-The first website is Apple which  it has been evaluated thoroughly and displayed on the web page `apple.html`. The web page has small descriptions and pictures of the main website displayed. Below are the bullet points 
+The first website is **Apple** which has been selected as _liked_ and has been evaluated thoroughly and displayed on the web page `apple.html`. The web page has small descriptions and pictures of the main website displayed. Below are the main points that has been described in each web page.
 
 > Innovative ideas and design
 
 > Responsive and smooth website
+
 > Appealing visual literacy
 
-> User-friendly website
->
->
+The second website is **Samsung** that has also been evaluted as _liked_ and below shows the main characteristics of the website of Samsung that has been evaluated. 
 
-> Simple interface with variety of resources
-> Too many advertisements among news
-> Celebrity gossip news
+> User-friendly website
+
+> Individual/ Enterprise Business Technologies
+
+> Mega Menu Navigation Bar
+
+The third website is **Msn** which has been evaluated as _disliked_ for its design and its content.
 
 > Pool of information around the world
-> Bugs in the website interface
-> Lack of category when reading news 
 
+> Bugs in the website interface
+
+> Lack of category when reading news
+
+Finally, the fourth website is **Yahoo** which is also counted as _disliked_ not for its design but for its unreliable sources that shows up on its homepage.
+
+> Simple interface with variety of resources
+
+> Too many advertisements among news
+
+> Celebrity gossip news
 
 ### Built With
 
@@ -49,7 +61,7 @@ JavaScript
 
 ### Conclusion
 
-All of the specified websites have been reviewed and analysed on their content, website design style and their functionalities. Through the evaluation, it can be seen that it is imperative to focus on the design process when developing a website of any kind. Users are automatically atrracted to a website based solely on their design interface. Also, a website should be responsive while user-friendly letting users navigate the website hassle-free and access information with less navigation steps. Hence, it must be regarded as a priority to ensure the visit rate of users exceeds the expected one and ensure that the user is willing to convert to a regular happy customer.
+Last but not the least, all of the specified websites have been reviewed and analysed on their content, website design style and their functionalities. Through the evaluation, it can be seen that it is imperative to focus on the design process when developing a website of any kind. Users are automatically atrracted to a website based solely on their design interface. Also, a website should be responsive while user-friendly letting users navigate the website hassle-free and access information with less navigation steps. Hence, it must be regarded as a priority to ensure the visit rate of users exceeds the expected one and ensure that the user is willing to convert to a regular happy customer.
 
 ### Hours spent
 
@@ -58,14 +70,9 @@ Approximately 47 hours
 ```
 
 
-### Hosting on
+### Hosting and Source
 
-[GitHub](https://github.com)
-
-
-### Find Source here
-
-[Source](https://github.com/nawjeet/bwt1)
+This website is hosted on [GitHub](https://github.com) and its source can be found on this [link](https://github.com/nawjeet/bwt1).
 
 ## Author
 
