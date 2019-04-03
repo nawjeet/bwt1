@@ -58,7 +58,7 @@ Last but not the least, all of the specified websites have been reviewed and ana
 
 ### Reference List
 
-A web page `references.html` consisting of all references.
+The web page `references.html` consists of all references.
 
 ### Built With
 
