@@ -13,7 +13,7 @@ Msn
 Yahoo
 ```
 
-The website starting page includes a brief introduction on websites in general where it is stated that anyone around the world can publish their websites using free hosting services, such as [GitHub](https://github.com), [Netlify](https://www.netlify.com) and [000WebHost](https://www.000webhost.com) service providers, or using paid hosting providers with security and peace of mind, such as [GoDaddy](https://au.godaddy.com), [IcyEvolution](https://www.icyevolution.com), [BlueHost](https://www.bluehost.com) and many more. To ensure that a website meets minimum standard requirements, it is required to perform evaluation on the websites' overall performance criteria. The website should be responsive, contain accurate information and developed using lightweight codes. The first page includes the logo of each website and a small bullet points that will be further elaborated in the web pages created for each website.
+The website's starting page includes a brief introduction on websites in general where it is stated that anyone around the world can publish their websites using free hosting services, such as [GitHub](https://github.com), [Netlify](https://www.netlify.com) and [000WebHost](https://www.000webhost.com) service providers, or using paid hosting providers with security and peace of mind, such as [GoDaddy](https://au.godaddy.com), [IcyEvolution](https://www.icyevolution.com), [BlueHost](https://www.bluehost.com) and many more. To ensure that a website meets minimum standard requirements, it is required to perform evaluation on the websites' overall performance criteria. The website should be responsive, contain accurate information and developed using lightweight codes. The first page includes the logo of each website and a small bullet points that will be further elaborated in the web pages created for each website.
 
 ### Content
 
@@ -71,13 +71,13 @@ JavaScript
 ### Hours spent
 
 ```
-Approximately 47 hours
+Approximately 50 hours
 ```
 
 
 ### Hosting and Source
 
-This website is hosted on [GitHub](https://github.com) and its source can be found on this [link](https://github.com/nawjeet/bwt1).
+This website is hosted on [GitHub](https://github.com) and its source code can be found on this [link](https://github.com/nawjeet/bwt1).
 
 ## Author
 
