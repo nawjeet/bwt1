@@ -27,6 +27,7 @@ The first website is **Apple** which has been selected as _liked_ and has been e
 
 > Appealing visual literacy
 
+
 The second website is **Samsung** that has also been evaluted as _liked_ and below shows the main characteristics of the website of Samsung that has been evaluated. 
 
 > User-friendly website
@@ -34,6 +35,7 @@ The second website is **Samsung** that has also been evaluted as _liked_ and bel
 > Individual/ Enterprise Business Technologies
 
 > Mega Menu Navigation Bar
+
 
 The third website is **Msn** which has been evaluated as _disliked_ for its design and its content.
 
@@ -43,6 +45,7 @@ The third website is **Msn** which has been evaluated as _disliked_ for its desi
 
 > Lack of category when reading news
 
+
 Finally, the fourth website is **Yahoo** which is also counted as _disliked_ not for its design but for its unreliable sources that shows up on its homepage.
 
 > Simple interface with variety of resources
@@ -50,6 +53,7 @@ Finally, the fourth website is **Yahoo** which is also counted as _disliked_ not
 > Too many advertisements among news
 
 > Celebrity gossip news
+
 
 ### Built With
 
