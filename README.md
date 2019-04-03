@@ -13,7 +13,7 @@ Msn
 Yahoo
 ```
 
-The website starting page includes a brief introduction on websites in general where it is stated that anyone around the world can publish their websites using free hosting services, such as [GitHub](https://github.com), [Netlify](https://www.netlify.com) and [000WebHost](https://www.000webhost.com) service providers, or using paid providers with security and peace of mind, such as [GoDaddy](https://au.godaddy.com), [IcyEvolution](https://www.icyevolution.com), [BlueHost](https://www.bluehost.com) and many more. To ensure that a website meets minimum standard requirements, it is required to perform evaluation on the websites' overall performance criteria. The website should be responsive, contain accurate information and developed using lightweight codes. The first page includes the logo of each website and a small bullet points that will be further elaborated in the web pages created for each website.
+The website starting page includes a brief introduction on websites in general where it is stated that anyone around the world can publish their websites using free hosting services, such as [GitHub](https://github.com), [Netlify](https://www.netlify.com) and [000WebHost](https://www.000webhost.com) service providers, or using paid hosting providers with security and peace of mind, such as [GoDaddy](https://au.godaddy.com), [IcyEvolution](https://www.icyevolution.com), [BlueHost](https://www.bluehost.com) and many more. To ensure that a website meets minimum standard requirements, it is required to perform evaluation on the websites' overall performance criteria. The website should be responsive, contain accurate information and developed using lightweight codes. The first page includes the logo of each website and a small bullet points that will be further elaborated in the web pages created for each website.
 
 ### Content
 
@@ -36,7 +36,6 @@ The second website is **Samsung** that has also been evaluted as _liked_ and bel
 
 > Mega Menu Navigation Bar
 
-
 The third website is **Msn** which has been evaluated as _disliked_ for its design and its content.
 
 > Pool of information around the world
@@ -44,7 +43,6 @@ The third website is **Msn** which has been evaluated as _disliked_ for its desi
 > Bugs in the website interface
 
 > Lack of category when reading news
-
 
 Finally, the fourth website is **Yahoo** which is also counted as _disliked_ not for its design but for its unreliable sources that shows up on its homepage.
 
@@ -54,6 +52,13 @@ Finally, the fourth website is **Yahoo** which is also counted as _disliked_ not
 
 > Celebrity gossip news
 
+### Conclusion
+
+Last but not the least, all of the specified websites have been reviewed and analysed on their content, website design style and their functionalities. Through the evaluation, it can be seen that it is imperative to focus on the design process when developing a website of any kind. Users are automatically atrracted to a website based solely on their design interface. Also, a website should be responsive while user-friendly letting users navigate the website hassle-free and access information with less navigation steps. Hence, it must be regarded as a priority to ensure the visit rate of users exceeds the expected one and ensure that the user is willing to convert to a regular happy customer.
+
+### Reference List
+
+A web page consisting of all references.
 
 ### Built With
 
@@ -62,10 +67,6 @@ HTML5
 CSS
 JavaScript
 ```
-
-### Conclusion
-
-Last but not the least, all of the specified websites have been reviewed and analysed on their content, website design style and their functionalities. Through the evaluation, it can be seen that it is imperative to focus on the design process when developing a website of any kind. Users are automatically atrracted to a website based solely on their design interface. Also, a website should be responsive while user-friendly letting users navigate the website hassle-free and access information with less navigation steps. Hence, it must be regarded as a priority to ensure the visit rate of users exceeds the expected one and ensure that the user is willing to convert to a regular happy customer.
 
 ### Hours spent
 
