@@ -52,12 +52,17 @@ h2 {
   width: 50%;
 }
 
+header {
+  list-style-type: none;
+  line-height: 4;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 40px;
+ }
+
 li {
   display: inline;
-}
-
-ul {
- list-style-type: none;
 }
 
 .curtin {
@@ -65,6 +70,12 @@ ul {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.footerHTSS {
+  border: 0;
+  width: 88px;
+  height: 31px;
 }
 
 .footerL {
@@ -173,7 +184,6 @@ ul {
 .plNav {
   margin-top: 1em;
   padding-top: 1em;
-  padding: 0 auto;
   padding-left: 18%;
   width: 60%;
   text-align: left;
@@ -190,6 +200,10 @@ ul {
 .ref {
   text-align: right;
   margin-right: 300px;
+}
+
+.sectionl {
+  padding: 2px 67px 2px;
 }
 
 .topnav {
@@ -240,10 +254,6 @@ ul {
 #sectionc {
   padding: 2px 67px 2px;
   text-align: center;
-}
-
-#sectionl {
-  padding: 2px 67px 2px;
 }
 
 #sectionr {
